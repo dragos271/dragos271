@@ -10,11 +10,7 @@ I am a passionate Master student in software engineering at UiB, driven by a cur
 [![My Skills](https://skillicons.dev/icons?i=js,arch,bash,docker,git,gradle,kotlin,ktor,kubernetes,nodejs,postgres,redis,spring,svelte,terraform,ts,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Learning Rust
   - Diving into PostgreSQL for efficient and scalable database management.
 
 
