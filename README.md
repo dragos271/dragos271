@@ -1,6 +1,6 @@
 # Hi, I'm Dragos! 👋
 
-I am a passionate Master student in software engineering at UiB, driven by a curiosity for technology. My journey involves delving into the world of computer science and exploring new ideas.
+I am a passionate Master student in software engineering at UiB, driven by a curiosity for technology.
 
 ## 🚀 About Me
 
@@ -17,11 +17,6 @@ I am a passionate Master student in software engineering at UiB, driven by a cur
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/dragos-slovineanu-99b92b175/)
-- Read more of my articles on [portfolio](https://www.dragos-portfolio.com/)
-
-Thanks for stopping by! Let's connect and explore the world of technology together. 🚀
-
-
 
 <!--
 
