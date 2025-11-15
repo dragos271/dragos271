@@ -1,6 +1,6 @@
 # Hi, I'm Dragos! 👋
 
-I am a passionate Master student in software engineering at UiB, driven by a curiosity for technology.
+I am a passionate Master student in software engineering at UiB.
 
 ## 🚀 About Me
 
