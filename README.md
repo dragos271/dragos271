@@ -9,10 +9,6 @@ I am a passionate Master student in software engineering at UiB.
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,arch,bash,docker,git,gradle,kotlin,ktor,kubernetes,nodejs,postgres,redis,spring,svelte,terraform,ts,)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
-  - Learning Rust
-  - Diving into PostgreSQL for efficient and scalable database management.
-
 
 ## 📬 Get in Touch
 
